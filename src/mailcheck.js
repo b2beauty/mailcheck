@@ -13,7 +13,7 @@ var Mailcheck = {
   secondLevelThreshold: 2,
   topLevelThreshold: 2,
 
-  defaultDomains: ["google.com", "hotmail.com", "gmail.com", "me.com", "terra.com.br", "yahoo.com", "yahoo.com.br", "bol.com.br",
+  defaultDomains: ["google.com", "hotmail.com", "gmail.com", "me.com", "terra.com.br", "yahoo.com", "yahoo.com.br", "bol.com.br", "uol.com.br",
     "live.com",  "googlemail.com", "msn.com", "facebook.com", "outlook.com", "icloud.com"],
 
   defaultSecondLevelDomains: ["yahoo", "hotmail", "mail", "live", "outlook"],
